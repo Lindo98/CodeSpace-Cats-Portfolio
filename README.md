@@ -1,5 +1,5 @@
 # Project Overview
-This is a a landing page for a cat portfolio. I am creating aqw UI of the page using HTML 
+This is a a landing page for a cat portfolio. I am creating the UI of the page using HTML 
 
 
 # Presentation
